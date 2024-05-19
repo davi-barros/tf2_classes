@@ -1,14 +1,14 @@
 {
     "classes": [
-      { "id": 1, "Nome": "Scout", "NomeReal": "Jeremy", "Origem": "USA", "Velocidade": "133%", "Vida": "125", "Papel": "Ofensa" },
-      { "id": 2, "Nome": "Soldier", "NomeReal": "Jane Doe", "Origem": "USA", "Velocidade": "80%", "Vida": "200", "Papel": "Ofensa" },
-      { "id": 3, "Nome": "Pyro", "NomeReal": "[Redigido]", "Origem": "[Desconhecido]", "Velocidade": "100%", "Vida": "175", "Papel": "Ofensa" },
-      { "id": 4, "Nome": "Demoman", "NomeReal": "Tavish", "Origem": "Escócia", "Velocidade": "93%", "Vida": "175", "Papel": "Defesa" },
-      { "id": 5, "Nome": "Heavy", "NomeReal": "Mikhail", "Origem": "USSR", "Velocidade": "77%", "Vida": "300", "Papel": "Defesa" },
-      { "id": 6, "Nome": "Engineer", "NomeReal": "Dell", "Origem": "USA", "Velocidade": "100%", "Vida": "125", "Papel": "Defesa" },
-      { "id": 7, "Nome": "Medic", "NomeReal": "Ludwig" , "Origem": "Alemanha", "Velocidade": "107%", "Vida": "150", "Papel": "Suporte" },
-      { "id": 8, "Nome": "Sniper", "NomeReal": "Mundy" , "Origem": "Nova Zelândia", "Velocidade": "100%", "Vida": "125", "Papel": "Suporte" },
-      { "id": 9, "Nome": "Spy", "NomeReal": "[Redigido]", "Origem": "França", "Velocidade": "107%", "Vida": "125", "Papel": "Suporte" }
+      { "id": 1, "Nome": "Classe: Scout", "NomeReal": "Nome real: Jeremy", "Origem": "País de origem: USA", "Velocidade": " Velocidade: 133%", "Vida": "Vida: 125", "Papel": "Papel: Ofensa" },
+      { "id": 2, "Nome": "Classe: Soldier", "NomeReal": "Nome real: Jane Doe", "Origem": "País de origem: USA", "Velocidade": "Velocidade: 80%", "Vida": "Vida: 200", "Papel": "Papel: Ofensa" },
+      { "id": 3, "Nome": "Classe: Pyro", "NomeReal": "Nome real: [Redigido]", "Origem": "País de origem: [Desconhecido]", "Velocidade": "Velocidade: 100%", "Vida": "Vida: 175", "Papel": "Papel: Ofensa" },
+      { "id": 4, "Nome": "Classe: Demoman", "NomeReal": "Nome real: Tavish", "Origem": "País de origem: Escócia", "Velocidade": "Velocidade: 93%", "Vida": "Vida: 175", "Papel": "Papel: Defesa" },
+      { "id": 5, "Nome": "Classe: Heavy", "NomeReal": "Nome real: Mikhail", "Origem": "País de origem: USSR", "Velocidade": "Velocidade: 77%", "Vida": "Vida: 300", "Papel": "Papel: Defesa" },
+      { "id": 6, "Nome": "Classe: Engineer", "NomeReal": "Nome real: Dell", "Origem": "País de origem: USA", "Velocidade": "Velocidade: 100%", "Vida": "Vida: 125", "Papel": "Papel: Defesa" },
+      { "id": 7, "Nome": "Classe: Medic", "NomeReal": "Nome real: Ludwig" , "Origem": "País de origem: Alemanha", "Velocidade": "Velocidade: 107%", "Vida": "Vida: 150", "Papel": "Papel: Suporte" },
+      { "id": 8, "Nome": "Classe: Sniper", "NomeReal": "Nome real: Mundy" , "Origem": "País de origem: Nova Zelândia", "Velocidade": "Velocidade: 100%", "Vida": "Vida: 125", "Papel": "Papel: Suporte" },
+      { "id": 9, "Nome": "Classe: Spy", "NomeReal": "Nome real: [Redigido]", "Origem": "País de origem: França", "Velocidade": "Velocidade: 107%", "Vida": "Vida: 125", "Papel": "Papel: Suporte" }
     ],
     "arsenal": [
       { "id": 1, "Primaria": "Scattergun", "Secundaria": "Pistola", "Corpo": "Bastão" },
