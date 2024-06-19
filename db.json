@@ -8,7 +8,7 @@
       { "id": 6, "Nome": "Engineer", "NomeReal": "Dell", "Origem": "USA", "Velocidade": "100%", "Vida": "125", "Papel": "Defesa" },
       { "id": 7, "Nome": "Medic", "NomeReal": "Ludwig" , "Origem": "Alemanha", "Velocidade": "107%", "Vida": "150", "Papel": "Suporte" },
       { "id": 8, "Nome": "Sniper", "NomeReal": "Mundy" , "Origem": "Nova Zelândia", "Velocidade": "100%", "Vida": "125", "Papel": "Suporte" },
-      { "id": 9, "Nome": "Spy", "NomeReal": "[Redigido]", "Origem": "França", "Velocidade": "107%", "Vida": "125", "Papel": "Suporte" }
+      { "id": 9, "Nome": "Spy", "NomeReal": "[Redigido]", "Origem": "França", "Velocidade": "107%", "Vida": "125", "Papel": "Suporte" },
     ],
     "arsenal": [
       { "id": 1, "Primaria": "Scattergun", "Secundaria": "Pistola", "Corpo": "Bastão" },
@@ -19,6 +19,6 @@
       { "id": 6, "Primaria": "Escopeta", "Secundaria": "Kit de construção", "Corpo": "Chave inglesa" },
       { "id": 7, "Primaria": "Arma de seringas", "Secundaria": "Medigun", "Corpo": "Corta-ossos" },
       { "id": 8, "Primaria": "Rifle de sniper", "Secundaria": "SMG", "Corpo": "Kukri" },
-      { "id": 9, "Primaria": "Revólver", "Secundaria": "Kit de disfarce", "Corpo": "Balisong" }
+      { "id": 9, "Primaria": "Revólver", "Secundaria": "Kit de disfarce", "Corpo": "Balisong" },
     ]
 }
