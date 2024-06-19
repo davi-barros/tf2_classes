@@ -1,6 +1,6 @@
 {
     "classes": [
-      { "id": 1, "Nome": "Scout", "NomeReal": "Jeremy", "Origem": "USA", "Velocidade": "133%", "Vida": "125", "Papel": "Ofensa", "url": "https://wiki.teamfortress.com/w/images/7/78/Scout_contract_drawer.png"  },
+      { "id": 1, "Nome": "Scout", "NomeReal": "Jeremy", "Origem": "USA", "Velocidade": "133%", "Vida": "125", "Papel": "Ofensa", },
       { "id": 2, "Nome": "Soldier", "NomeReal": "Jane Doe", "Origem": "USA", "Velocidade": "80%", "Vida": "200", "Papel": "Ofensa" },
       { "id": 3, "Nome": "Pyro", "NomeReal": "[Redigido]", "Origem": "[Desconhecido]", "Velocidade": "100%", "Vida": "175", "Papel": "Ofensa" },
       { "id": 4, "Nome": "Demoman", "NomeReal": "Tavish", "Origem": "Escócia", "Velocidade": "93%", "Vida": "175", "Papel": "Defesa" },
